@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Apple
 orange
 banan
+=======
+hai
+hello
+good vibes
+>>>>>>> mvies
